@@ -25,4 +25,6 @@ f = A J_x arctan(tan(B_x f B_y)) J_y C f C^t J_x arctan(tan(B_x f B_y)) J_y A^t
 
 Collecting another half pair to make them symmetric, it's equivalent to:
 
-\[\[I f-I\],\[(f-I)^t I\]\] = \[\[J_x^2J_y^2g^2(f)f ...\], ...\]
+\[\[I f-I\],\[(f-I)^t I\]\] = J'\_x^2J'\_y'^2g(')^2(f)f(') + ...
+
+with some symmetric part invert operations on some operation.
