@@ -13,3 +13,9 @@ measurable condition.
 
 # Tips
 There also exists only finite edge or each edge condition of the well analysed functions to be solution.
+
+This is done by dividing invariant by some combination.
+
+So another problem is s.t. finite combination on object of each-dimension.
+This might causes trajectory related problem.
+
