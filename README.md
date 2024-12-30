@@ -1,21 +1,13 @@
 # integ
 Solve PDE functions.
 
-# Description
-Stub.
+# Rough sketch
+With goki_check_cc:lieonn.hh:filter condition, a piecewise continuous functions' (especially for f(x)) integrate/differential can be written in f(x,dx) algebraic ones.
+So if condition satisfies, any PDEs can be written in their form.
 
-With randtools on PDE with goki.hh:filter analytic funciton, we conclude
-f(tan \<x,a(\partial/\partial x_k)\>(\partial/\partial x_k...)^m) -\> epsilon. for f's PDE.
-There exists which is larger chase on PDE definition and PDE solution, however,
-if we can provide first floor description on given PDE and they doesn't include aleph_1 or more
-(only include the abs infimum omega^k, k\<omega), weak solution gained with some of the
-measurable condition.
+With randtools on PDE, we conclude tan \<a,\[x,dx\]\>(... x_k ... dx_k ...)^m -\> epsilon for their solution.
 
-# Tips
-There also exists only finite edge or each edge condition of the well analysed functions to be solution.
+After doing them, with matrix-matrix log/exp can describe the series better with super geometry functions.
 
-This is done by dividing invariant by some combination.
-
-So another problem is s.t. finite combination on object of each-dimension.
-This might causes trajectory related problem.
+After doing them all, we can get some root functions f\_0(x,dx), ... as g(f\_0(x,dx),...) as a solution, so reverting such dx variable by first ones, we can get whole solution if they are proved only exists.
 
